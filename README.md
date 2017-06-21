@@ -9,34 +9,22 @@ The website is offline. However, a cached snapshot is available. <a href="http:/
 Screenshots
 -----------
 
-| Home Page | 
-|:-:|:-:|:-:|:-:|
-| ![Home Page][1] |
+![Home Page][1]
 
 
-| About | 
-|:-:|:-:|:-:|:-:|
-| ![About][2] |
+![About][2]
 
 
-| Events | 
-|:-:|:-:|:-:|:-:|
-| ![Events][3] |
+![Events][3]
 
 
-| Rally Mania Page | 
-|:-:|:-:|:-:|:-:|
-| ![Rally Mania Page][4] |
+![Rally Mania Page][4]
 
 
-| Sponsors Information | 
-|:-:|:-:|:-:|:-:|
-| ![Sponsors Information][6] |
+![Sponsors Information][6]
 
 
-| Contact Page | 
-|:-:|:-:|:-:|:-:|
-| ![Contact Page][5] |
+![Contact Page][5]
 
 [1]: http://i.imgur.com/IAwqqa0.jpg
 [2]: http://i.imgur.com/sNZ10nG.png
